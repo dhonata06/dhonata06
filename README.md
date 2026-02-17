@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Dhonata José Batista Moreira! 👋
 
-<!--
-**dhonata06/dhonata06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado no ecossistema **.NET**, apaixonado por arquitetura limpa e soluções escaláveis. Atualmente, estou focado em aprimorar meus conhecimentos em **.NET 9** e integração com **Inteligência Artificial**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias & Ferramentas
+
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Meu projeto principal
+Atualmente estou desenvolvendo o **[MentoraAI](https://github.com/dhonata06/MentoraAI)**, um backend robusto para sistemas de mentoria utilizando as melhores práticas de mercado e **.NET 9**.
+
+### 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhonata-moreira-188426347)
+
+---
