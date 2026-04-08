@@ -1,23 +1,70 @@
-# Olá, eu sou o Dhonata José Batista Moreira! 👋
+# 👋 Olá, eu sou o Dhonata José Batista Moreira
 
-Sou um desenvolvedor focado no ecossistema **.NET**, apaixonado por arquitetura limpa e soluções escaláveis. Atualmente, estou focado em aprimorar meus conhecimentos em **.NET 9** e integração com **Inteligência Artificial**.
-
----
-
-### 🛠 Tecnologias & Ferramentas
-
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+💻 Desenvolvedor em formação focado no ecossistema .NET, com interesse em arquitetura limpa e construção de aplicações escaláveis.
+Atualmente, venho evoluindo meus conhecimentos em backend com C# e integração com Inteligência Artificial.
 
 ---
 
-### 🚀 Meu projeto principal
-Atualmente estou desenvolvendo o **[MentoraAI](https://github.com/dhonata06/MentoraAI)**, um backend robusto para sistemas de mentoria utilizando as melhores práticas de mercado e **.NET 9**.
+## 🚀 Sobre mim
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhonata-moreira-188426347)
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 💡 Interesse em desenvolvimento backend e boas práticas de arquitetura
+* 📚 Aprimorando conhecimentos em .NET 9, APIs REST e Clean Architecture
+* 🤖 Explorando integração de Inteligência Artificial em aplicações reais
 
 ---
+
+## 🛠️ Tecnologias & Ferramentas
+
+* 💻 C# | .NET
+* 🗄️ SQL Server
+* 🌐 HTML | CSS | JavaScript
+* ⚙️ Visual Studio
+* 🔧 Git & GitHub
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🤖 MentoraAI
+
+Plataforma educacional com uso de Inteligência Artificial para auxiliar no aprendizado de forma personalizada.
+
+🔹 Funcionalidades:
+
+* Geração de conteúdo de estudo estruturado
+* Criação de quizzes e simulados adaptativos
+* Recomendações de estudo com base no desempenho
+* Diagnóstico de aprendizado
+
+🔹 Tecnologias utilizadas:
+
+* Backend em .NET 9
+* API REST
+* Integração com IA
+
+📌 Projeto em constante evolução, focado em aplicar conceitos reais de desenvolvimento backend.
+
+---
+
+## 📈 Atualmente
+
+* 🚧 Desenvolvendo o MentoraAI
+* 📚 Estudando arquitetura limpa e boas práticas
+* 🔍 Buscando evoluir como desenvolvedor backend
+
+---
+
+## 📫 Como me encontrar
+
+* 💼 LinkedIn: https://www.linkedin.com/in/dhonata-moreira-188426347
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de desenvolvimento, onde eu possa aprender, evoluir e contribuir com soluções reais.
+
+---
+
+✨ Sempre em evolução, um passo de cada vez.
